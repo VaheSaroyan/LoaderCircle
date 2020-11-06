@@ -1,0 +1,19 @@
+{
+  "name": "@vahesaroyan/loadercircle",
+  "version": "1.0.0",
+  "description": "React Native Loader Circle",
+  "main": "index.js",
+  "type": "module",
+  "keywords": [
+    "react native",
+    "loader"
+  ],
+  "author": "",
+  "license": "MIT",
+  "publishConfig": {
+    "registry": "https://npm.pkg.github.com/"
+  },
+  "dependencies": {
+    "@react-native-community/art": "^1.2.0"
+  }
+}
